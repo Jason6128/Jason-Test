@@ -1,8 +1,7 @@
 # Hello, I'm Yusuf 
 <a href="https://linkedin.com"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-My journey in computer science has fueled a strong interest in cybersecurity. Now, I'm excited to shift my focus to this field, with a particular goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems
 
 ## Objective
 
