@@ -49,7 +49,7 @@ My journey in computer science has fueled a strong interest in cybersecurity. No
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-007ACC?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
