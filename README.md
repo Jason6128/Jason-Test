@@ -15,7 +15,7 @@ My journey in computer science has fueled a strong interest in cybersecurity. No
 |-----------------------------------------------|----------------------------|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         |<a href="https://google.com">Detection Lab</a>|
-
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 
