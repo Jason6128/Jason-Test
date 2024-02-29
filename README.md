@@ -27,6 +27,8 @@ My journey in computer science has fueled a strong interest in cybersecurity. No
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Deep%20Blue%20CLI-777BB4?&style=for-the-badge&logo=Deep%20Blue%20CLI&logoColor=white" />
+
     
 </div>
 
