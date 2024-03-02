@@ -13,8 +13,7 @@ My journey in computer science has fueled a strong interest in cybersecurity. No
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         |<a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         |<a href="https://github.com/Jason6128/Detection-Lab/tree/main">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
